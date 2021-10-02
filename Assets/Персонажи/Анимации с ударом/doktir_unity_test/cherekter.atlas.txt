@@ -1,0 +1,132 @@
+
+cherekter.png
+size: 527,1027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 258, 25
+  size: 174, 97
+  orig: 176, 112
+  offset: 1, 2
+  index: -1
+Layer 19
+  rotate: false
+  xy: 258, 25
+  size: 174, 97
+  orig: 176, 112
+  offset: 1, 2
+  index: -1
+Layer 10
+  rotate: false
+  xy: 258, 124
+  size: 116, 181
+  orig: 119, 183
+  offset: 2, 1
+  index: -1
+Layer 11
+  rotate: true
+  xy: 348, 496
+  size: 202, 169
+  orig: 206, 173
+  offset: 2, 2
+  index: -1
+Layer 12
+  rotate: false
+  xy: 2, 225
+  size: 131, 243
+  orig: 134, 251
+  offset: 1, 1
+  index: -1
+Layer 13
+  rotate: false
+  xy: 142, 38
+  size: 114, 205
+  orig: 127, 213
+  offset: 11, 3
+  index: -1
+Layer 14
+  rotate: false
+  xy: 2, 699
+  size: 262, 326
+  orig: 265, 328
+  offset: 2, 1
+  index: -1
+Layer 15
+  rotate: false
+  xy: 266, 819
+  size: 254, 206
+  orig: 262, 208
+  offset: 7, 1
+  index: -1
+Layer 16
+  rotate: false
+  xy: 434, 19
+  size: 91, 123
+  orig: 102, 126
+  offset: 10, 1
+  index: -1
+Layer 17
+  rotate: false
+  xy: 2, 2
+  size: 138, 221
+  orig: 147, 223
+  offset: 2, 1
+  index: -1
+Layer 18
+  rotate: false
+  xy: 258, 307
+  size: 119, 183
+  orig: 121, 187
+  offset: 1, 3
+  index: -1
+Layer 3
+  rotate: true
+  xy: 376, 144
+  size: 67, 116
+  orig: 70, 125
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 241, 492
+  size: 105, 205
+  orig: 108, 208
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 379, 337
+  size: 127, 157
+  orig: 129, 160
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: true
+  xy: 135, 245
+  size: 223, 121
+  orig: 227, 149
+  offset: 2, 27
+  index: -1
+Layer 7
+  rotate: true
+  xy: 379, 213
+  size: 122, 138
+  orig: 127, 144
+  offset: 3, 4
+  index: -1
+Layer 8
+  rotate: false
+  xy: 2, 470
+  size: 237, 227
+  orig: 242, 230
+  offset: 3, 1
+  index: -1
+Layer 9
+  rotate: true
+  xy: 266, 700
+  size: 117, 252
+  orig: 137, 254
+  offset: 1, 1
+  index: -1
